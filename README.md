@@ -2,15 +2,18 @@
 ## Team Members
 - Dania ALsebaie
 - Douha ALjedaih
-  
+ 
 #Dania ALsebaie
 -Exploratory Data Analysis (EDA) with visualizations
 -Dimensionality & collinearity Identify multicollinearity (VIF) and either remove or regularize features.
 -Imbalanced Data Handling: Applied class weights and sampling strategies (SMOTE) to address classification bias.
 -Regression Modeling: Developed and tuned L1/L2 regularized linear models, specifically Ridge and Lasso regressions.
 - 
-*************************************************************************************************************************************************************************
-#Douha ALjedaih
+
+************************************************************************************************************************************************************************
+
+
+# Douha ALjedaih
 -Exploratory Data Analysis (EDA) with visualizations
 -Feature Engineering: Developed user-level, product-level, and interaction features from shopping history.
 -Encoding Categorical Variables: Implemented multiple encoding strategies (One-Hot and Target Encoding) 
