@@ -5,21 +5,20 @@
  
 # Dania ALsebaie
 -Exploratory Data Analysis (EDA) with visualizations
--Dimensionality & collinearity Identify multicollinearity (VIF) and either remove or regularize features.
--Imbalanced Data Handling: Applied class weights and sampling strategies (SMOTE) to address classification bias.
--Regression Modeling: Developed and tuned L1/L2 regularized linear models, specifically Ridge and Lasso regressions.
-- 
+-Outlier detection & treatment
+-Define and justify imputation techniques for missing fields
+-Dimensionality & collinearity Identify multicollinearity (VIF) and either remove or regularize features
+-Imbalanced Data Handling: Applied class weights and sampling strategies (SMOTE) to address classification bias
+
 
 ************************************************************************************************************************************************************************
 
 
 # Douha ALjedaih
 -Exploratory Data Analysis (EDA) with visualizations
--Feature Engineering: Developed user-level, product-level, and interaction features from shopping history.
+-Feature Engineering: Developed user-level, product-level, and interaction features from shopping history
 -Encoding Categorical Variables: Implemented multiple encoding strategies (One-Hot and Target Encoding) 
--Feature Scaling: Applied appropriate scaling techniques (StandardScaler/MinMax) based .
--Classification Modeling:  Logistic Regression and K-Nearest Neighbors (KNN) classifiers.
-
+-Feature Scaling: Applied appropriate scaling techniques (StandardScaler/MinMax) based 
 
 ## Code Location
 All project code is provided in the following Jupyter Notebook:
